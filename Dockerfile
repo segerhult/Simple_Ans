@@ -1,5 +1,7 @@
 FROM ubuntu:18.04
 
+COPY /Meraki API /tmp 
+
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update && \
