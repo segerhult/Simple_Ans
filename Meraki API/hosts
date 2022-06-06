@@ -1,7 +1,3 @@
-#
-# DevNet Sandbox
-#
-
 controller ansible_connection=local
 
 [meraki:children]
