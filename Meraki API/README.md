@@ -1,5 +1,5 @@
 # Intro
-Simple usage 
+Simple usage of playbook
 
-__ansible-playbook playbooks/collect_all.yml -v__
+__ansible-playbook collect_all.yml -v__
 
